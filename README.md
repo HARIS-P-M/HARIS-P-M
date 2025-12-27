@@ -55,7 +55,7 @@
 
 ### 🔹 Health-O-Meter
 - maintain fitness and diet
-- voice-based meal logging using Web Speech Recognition
+- voice-based meal logging using Web Speech Recognition  
 **Tech:** React, Python, Google API
 
 👉 *More projects available in repositories*
