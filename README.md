@@ -53,10 +53,10 @@
 - Large dish database  
 **Tech:** React, Flask, MongoDB
 
-### 🔹 Wildfire Detection System
-- Sensor-based detection
-- Live map visualization  
-**Tech:** IoT, Python, Google Maps API
+### 🔹 Health-O-Meter
+- maintain fitness and diet
+- voice-based meal logging using Web Speech Recognition
+**Tech:** React, Python, Google API
 
 👉 *More projects available in repositories*
 
@@ -70,9 +70,9 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: https://yourportfolio.com
+- 📧 Email: harispm.23cse@kongu.edu
+- 💼 LinkedIn: https://www.linkedin.com/in/haris-p-m-678b66331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌐 Portfolio: Not Yet Published
 
 ---
 
