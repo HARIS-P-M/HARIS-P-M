@@ -72,7 +72,7 @@
 ## 📫 Connect With Me
 - 📧 Email: harispm.23cse@kongu.edu
 - 💼 LinkedIn: https://www.linkedin.com/in/haris-p-m-678b66331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 🌐 Portfolio: Not Yet Published
+- 🌐 Portfolio: https://haris-p-m.github.io/Portfolio/
 
 ---
 
